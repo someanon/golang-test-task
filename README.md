@@ -78,7 +78,7 @@
       "content-type": "text\/html",
       "content-length": 605
     },
-    "elemets": [
+    "elements": [
       {
         "tag-name": "html",
         "count": 0
