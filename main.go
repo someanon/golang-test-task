@@ -6,5 +6,5 @@ func main() {
 	gin.SetMode("release")
 	r := newRouter(newLoader())
 	r.Use(gin.Recovery())
-	r.Run()
+	r.Run(":8080")
 }
